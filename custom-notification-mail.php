@@ -4,7 +4,7 @@ Plugin Name: Notification email settings
 Description: This plugin allows you to customize the email address which send system notifications (new user, new comment).
 Version: 0.1
 Author: montera34
-Author URI: http://montera34.com
+Author URI: https://montera34.com
 License: GPLv3
 */
 
